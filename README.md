@@ -51,10 +51,10 @@ The subnational datasets needed in this demo are available in the `data` directo
 Clone this repository to your computer, for example from the command line via
 
 ```
-git clone https://github.com/PPgp/CSDE2025workshop bayespop_workshop
+git clone https://github.com/PPgp/CSDEworkshop bayespop_workshop
 ```
 
-Alternatively, one can clone it directly from an R Studio via File -> New Project -> Version Control -> Git. As repository URL enter https://github.com/PPgp/CSDE2025workshop and as Project directory name enter bayespop_workshop. Then click on "Create Project".
+Alternatively, one can clone it directly from an R Studio via File -> New Project -> Version Control -> Git. As repository URL enter https://github.com/PPgp/CSDEworkshop and as Project directory name enter bayespop_workshop. Then click on "Create Project".
 
 Both of these alternatives create a directory "bayespop_workshop" which will be your working directory for this workshop. It contains the subdirectory "data" with the subnational datasets.
 
