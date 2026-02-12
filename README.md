@@ -69,4 +69,4 @@ After these steps, your "bayespop\_workshop" directory should look like this:
 
 ## Workshop Material
 
-[Go to the workshop material](https://bayespop.csss.washington.edu/CSDE2025workshop) (login credentials available at the workshop)
+[Go to the workshop material](https://bayespop.csss.washington.edu/CSDE2026workshop) (login credentials available at the workshop)
