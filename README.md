@@ -1,7 +1,7 @@
 # CSDE Workshop on Probabilistic Population Projections II: Practice
 
 
-**10/9/2025, 10:00am - 11:30pm PST**
+**02/26/2026, 9:00am - 11:00am PST**
 
 In this workshop, we will generate probabilistic population projections for all counties of Washington state, including probabilistic projections of the individual components of population change, such as the total fertility rate, life expectancy at birth and net migration.
 
