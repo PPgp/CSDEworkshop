@@ -41,9 +41,11 @@ sessionInfo()
 You should see versions of the above packages. Check that they are as follows:
 
 ```
-wpp2024_1.1-3  bayesPop_11.0-3   MortCast_2.8-0   bayesLife_5.3-1   
+wpp2024_1.1-3  bayesPop_12.0-1   MortCast_2.8-0   bayesLife_5.3-1   
 bayesTFR_7.4-4 
 ```
+
+Note that the newest version of bayesPop was submitted recently, but it is not required. If you see `bayesPop_11.0-3` it should be OK. 
 
 ### Data
 The subnational datasets needed in this demo are available in the `data` directory of this repository. Note that these datasets do not represent any official metrics. Some of them were synthetically created and their only purpose is to illustrate the methodology. 
@@ -69,4 +71,4 @@ After these steps, your "bayespop\_workshop" directory should look like this:
 
 ## Workshop Material
 
-[Go to the workshop material](https://bayespop.csss.washington.edu/CSDE2026workshop) (login credentials available at the workshop)
+[Go to the workshop material](https://bayespop.csss.washington.edu/CSDE2026workshop) (login credentials available at the workshop on Thursday 2/26/2026)
